@@ -19,3 +19,8 @@ Você precisa criar um sistema em .NET, do tipo console, mapeando uma classe abs
 
 ## Solução
 O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+
+### Saída no console:
+
+![image](https://github.com/tainasays/decolaTech4-desafio-projeto2/assets/102188509/df31c623-81b3-46ed-b3e5-42fdcd52d5b9)
+
