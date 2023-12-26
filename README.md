@@ -1,7 +1,7 @@
 # 🚀 Decola Tech 4 - Programação orientada a objetos
 www.dio.me
 
-##🌟 Desafio de projeto - Criando um Sistema e Abstraindo um Celular com POO em C#
+## 🌟 Desafio de projeto - Criando um Sistema e Abstraindo um Celular com POO em C#
 Este é o meu segundo desafio de projeto do Bootcamp Decola Tech 4, do módulo POO, Orientação a Objetos com C#. Para este projeto, desenvolvi os requisitos solicitados e obrigatórios para o desafio, deixando em aberto por ser a versão 1.0. Pretendo, conforme avanço no conhecimento da linguagem, aprimorá-lo num futuro próximo.
 
 ## 💡 Contexto
